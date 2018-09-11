@@ -1,0 +1,19 @@
+{
+  "name": "mahadi.com",
+  "version": "1.0.0",
+  "description": "simple protfolio",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d mahadiProt"
+  },
+  "keywords": [
+    "protfolio",
+    "mahadi"
+  ],
+  "author": "codermahadi",
+  "license": "ISC",
+  "homepage": "https://github.com/codermahadi/mahadi-protfolio",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
